@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# master
-=======
-# dd
->>>>>>> desa
+# Masterrrrrr
+
 dwl,dw
